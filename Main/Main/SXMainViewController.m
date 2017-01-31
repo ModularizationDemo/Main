@@ -9,9 +9,9 @@
 #import "SXMainViewController.h"
 #import <Tools/SXTitleLabel.h>
 #import <Tools/UIView+Frame.h>
-#import <Search-Category/Lothar+Search.h>
-#import <Weather-Category/Lothar+Weather.h>
-#import <News-Category/Lothar+News.h>
+#import "Lothar+Search.h"
+#import "Lothar+Weather.h"
+#import "Lothar+News.h"
 
 @interface SXMainViewController ()<UIScrollViewDelegate>
 
